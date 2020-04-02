@@ -1,2 +1,2 @@
 # Bang
-No description
+Learning ...
