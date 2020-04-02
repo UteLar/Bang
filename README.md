@@ -1,2 +1,4 @@
 # Bang
-Learning ...
+Still learing 
+level 0
+
